@@ -10,7 +10,7 @@ namespace CustomMod
         bool worldReadyEventDispatched = false;
 
         public override void OnModWasLoaded()
-		{
+	{
             base.OnModWasLoaded();
             Timer aTimer = new Timer();
             aTimer.Elapsed += OnTimedEvent;

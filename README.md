@@ -1,6 +1,6 @@
 # Rise Of Industry Sample Mod
 
-Sample mod with custom console command and console logs and simple listener for World Ready event
+Sample mod with custom console command, console logs and simple listener for World Ready event
 
 ## Screenshots
 
